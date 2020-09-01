@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 960px;
+  margin: auto;
+  background-color: #cccccc;
+}
+
+.left-box {
+  width: 60%;
+}
+
+.right-box {
+  width: 40%;
+}
+
+li img, aside img{
+  width: 70px;
+}
